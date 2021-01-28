@@ -89,15 +89,14 @@
             color: #ffffff;
         }
 
-        .content-detail img {
-            max-height: 200px;
-        }
-
         .content-detail h2 {
             margin-bottom: 20px;
             font-size: 36px;
         }
 
+        .content-detail img {
+            max-height: 200px;
+        }
 
 /*BENEFITS CLASS*/
     .benefits {
@@ -129,13 +128,13 @@
 
 
 /*FOOTER*/
-    .footer {
+    footer {
         padding: 30px;
         clear: both;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         text-align: center;
     }
 
-    .footer h2 {
+    footer h2 {
         font-size: 20px;
     }
