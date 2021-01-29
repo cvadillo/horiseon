@@ -56,10 +56,14 @@
         font-size: 20px;
     }
 
-    header nav ul li{
+    header nav ul li {
         list-style-type: none;
         display: inline-block;
         margin-left: 25px;
+    }
+
+    header nav ul li a:hover {
+        color: #d9dcd6;
     }
 
 /*HERO ELEMENTS*/
