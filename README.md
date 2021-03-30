@@ -7,4 +7,4 @@ and also organizes the information in the CSS in a manner that is easier to read
 
 Future work with the company will include making the website fully reactive to mobile. 
 
-![Password Generator Screenshot](https://github.com/cvadillo/horiseon/blob/main/assets/images/Screen%20Shot%202021-02-24%20at%202.33.27%20PM.png)
+![Horiseon Screenshot](https://github.com/cvadillo/horiseon/blob/main/assets/images/Screen%20Shot%202021-03-29%20at%207.05.50%20PM.png)
